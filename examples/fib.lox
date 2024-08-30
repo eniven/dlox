@@ -1,0 +1,11 @@
+fun fib(n) {
+    if (n < 2) {
+        return n;
+    } else {
+        return fib(n-2) + fib(n-1);
+    }
+}
+var t1 = clock();
+print fib(30);
+var t2 = clock();
+print t2-t1;

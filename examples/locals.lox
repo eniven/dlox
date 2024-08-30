@@ -1,0 +1,7 @@
+var a = 5;
+{
+    print a;
+    var a = 6;
+    print a;
+}
+print a;
