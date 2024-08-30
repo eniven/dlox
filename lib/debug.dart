@@ -1,8 +1,8 @@
 import 'dart:io';
-import 'package:dlox/object.dart';
+import 'object.dart';
 import 'package:sprintf/sprintf.dart';
-import 'package:dlox/chunk.dart';
-import 'package:dlox/value.dart';
+import 'chunk.dart';
+import 'value.dart';
 
 void disassembleChunk(Chunk chunk, String name) {
   stdout.write("== $name ==\n");

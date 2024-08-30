@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:dlox/table.dart';
+import 'table.dart';
 import 'package:sprintf/sprintf.dart';
 import 'chunk.dart';
 import 'value.dart';

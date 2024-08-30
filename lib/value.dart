@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:dlox/object.dart';
+import 'object.dart';
 import 'package:sprintf/sprintf.dart';
 
 class Nil {}

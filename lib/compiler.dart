@@ -1,7 +1,7 @@
 import 'dart:io';
 
-import 'package:dlox/debug.dart';
-import 'package:dlox/object.dart';
+import 'debug.dart';
+import 'object.dart';
 
 import 'common.dart';
 import 'scanner.dart';
